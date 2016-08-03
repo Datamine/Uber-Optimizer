@@ -10,5 +10,6 @@ Session.vim
 tags
 
 venv/
+mytestfile
 
 *.pyc
